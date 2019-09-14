@@ -20,3 +20,6 @@ ii) Customize the notification icon(Create the asset file and set in the drawabl
 
 
 
+![image](https://user-images.githubusercontent.com/39657409/64911601-ab66d500-d741-11e9-93a0-f363bb6b8bf2.png)
+
+![image](https://user-images.githubusercontent.com/39657409/64911612-b9b4f100-d741-11e9-9c56-a4a81c3e5bcb.png)
